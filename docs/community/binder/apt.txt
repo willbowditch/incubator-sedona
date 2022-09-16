@@ -1,0 +1,4 @@
+openjdk-8-jre-headless
+gnupg
+gnupg2
+maven
